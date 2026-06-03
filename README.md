@@ -3,8 +3,7 @@
 > **"Sabko Nyay, Har Ghar Nyaya"**  
 > Ask any question about Indian law — FIR, rights, schemes, IPC sections
 
-![NyayaSathi Chat Interface](docs/screenshot_chat.png)
-![NyayaSathi Home](docs/screenshot_home.png)
+
 
 ---
 
