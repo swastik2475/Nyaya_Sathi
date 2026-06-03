@@ -1,0 +1,28 @@
+# 📄 .gitignore
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Data
+data/faiss_index/
+data/bm25_index/
+data/chat_history.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+```

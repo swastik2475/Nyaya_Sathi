@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.local
+
+# Data indexes
+data/faiss_index/
+data/bm25_index/
+faiss_index/
+bm25_index/
+
+# Corpus PDFs
+data/corpus/
+corpus/
+
+# VS Code
+.vscode/
+
+# Misc
+*.log
+.DS_Store
