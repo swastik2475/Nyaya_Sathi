@@ -14,9 +14,7 @@ data/bm25_index/
 faiss_index/
 bm25_index/
 
-# Corpus PDFs
-data/corpus/
-corpus/
+
 
 # VS Code
 .vscode/

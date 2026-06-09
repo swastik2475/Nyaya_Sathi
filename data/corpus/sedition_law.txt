@@ -1,0 +1,33 @@
+Sedition Law in India — Old and New
+
+Old Sedition Law: IPC Section 124A (Repealed for new offences from July 1, 2024)
+IPC Section 124A defined sedition as: "Whoever, by words, either spoken or written, or by signs, or by visible representation, or otherwise, brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards the Government established by law in India shall be punished."
+Punishment: Life imprisonment, or imprisonment up to 3 years, with fine.
+
+Key Case Law on IPC Section 124A:
+- Kedar Nath Singh v. State of Bihar (1962): Supreme Court upheld the law but narrowed its scope — only activities that incite violence or tend to create public disorder can be punished. Mere criticism of the government is not sedition.
+- Vinod Dua v. Union of India (2021): Supreme Court clarified that journalists cannot be prosecuted for criticism of government unless their statements incite violence.
+
+BNS Section 152 — New Law (Replaces IPC 124A from July 1, 2024)
+The Bharatiya Nyaya Sanhita (BNS) 2023 abolished the old sedition provision (IPC 124A) and replaced it with Section 152, which is narrower and more specific:
+"Whoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial means, or otherwise, excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished."
+Punishment: Life imprisonment or imprisonment up to 7 years with fine.
+
+Key Differences Between Old and New Law:
+1. The word "sedition" is not used in BNS Section 152.
+2. BNS Section 152 requires intent to cause secession, armed rebellion, or subversive activities — mere criticism or disaffection is not covered.
+3. Electronic communication and use of financial means are specifically included.
+4. The offence is now defined more precisely, offering more protection to journalists and activists.
+
+What is NOT Sedition / Section 152 Offence:
+- Criticism of government policies.
+- Satire or parody of political figures.
+- Peaceful protests and demonstrations.
+- Journalism and reporting on government failures.
+- Academic criticism and commentary.
+- Artistic expression, including films and books.
+
+If Falsely Accused
+- Apply for anticipatory bail under BNSS Section 482 before the Sessions Court or High Court.
+- File a writ petition before the High Court challenging the FIR.
+- Seek assistance from NALSA (1800-180-1516) for free legal aid.

@@ -1,0 +1,42 @@
+FIR — First Information Report
+
+What is an FIR?
+A First Information Report (FIR) is a written document prepared by the police when they receive information about the commission of a cognisable offence. It is the first step in the criminal justice process. FIR is governed by BNSS Section 173 (formerly CrPC Section 154).
+
+How to File an FIR in India
+Step 1: Visit the nearest police station.
+Step 2: Give your complaint orally or in writing to the officer-in-charge.
+Step 3: The officer must write it down and read it back to you.
+Step 4: Sign or give your thumb impression on the FIR.
+Step 5: Demand a free copy of the FIR — you are legally entitled to it (BNSS Section 173(2)).
+
+Zero FIR
+Under BNSS, you can file a Zero FIR at ANY police station regardless of where the crime occurred. The station that receives the Zero FIR must forward it to the station having jurisdiction.
+
+How to File FIR Online (e-FIR)
+Most states now provide online FIR portals:
+- National portal: https://www.cybercrime.gov.in (for cybercrime)
+- Uttar Pradesh: https://uppolice.gov.in
+- Delhi: https://delhipolice.gov.in
+- Maharashtra: https://citizen.mahapolice.gov.in
+Steps for online FIR:
+1. Visit the state police portal or the National Cybercrime Reporting Portal.
+2. Click on "File a Complaint" or "Report Cybercrime."
+3. Register/login with your mobile number.
+4. Fill in the complaint details and upload supporting evidence.
+5. Submit — you will receive an acknowledgement number.
+
+What to Do If Police Refuses to Register FIR
+If the police officer refuses to register an FIR:
+Option 1: Approach the Superintendent of Police (SP) with your written complaint — BNSS Section 173(4).
+Option 2: File a complaint before the Executive Magistrate.
+Option 3: File a private complaint under Section 223 BNSS directly before a Magistrate.
+Option 4: Approach the High Court under Article 226 for a writ of mandamus directing the police to register the FIR.
+
+The Supreme Court in Lalita Kumari v. Govt. of U.P. (2014) held that registration of FIR is mandatory when the information discloses a cognisable offence — there is no discretion to conduct a preliminary inquiry first.
+
+Cognisable vs. Non-Cognisable Offences
+- Cognisable offences (e.g. murder, rape, robbery, theft): Police can arrest without a warrant and must register FIR.
+- Non-cognisable offences (e.g. assault, cheating of small amounts): Police cannot arrest without a warrant; a complaint is filed and a warrant is obtained.
+
+Emergency: Dial 112 for Police emergency. Dial 1930 for cybercrime helpline.

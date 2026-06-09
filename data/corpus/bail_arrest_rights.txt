@@ -1,0 +1,42 @@
+Rights of an Arrested Person in India
+
+Right to Know the Grounds of Arrest (Article 22, Constitution / BNSS Section 47)
+Every person who is arrested must be informed of the grounds of arrest as soon as possible. Failure to inform the grounds of arrest makes the detention illegal (D.K. Basu v. State of West Bengal, 1997).
+
+Right to Meet a Lawyer (Article 22(1), Constitution / BNSS Section 41D)
+Every arrested person has the right to meet a lawyer of their choice. The police cannot deny access to a lawyer during interrogation. If the person cannot afford a lawyer, the court or police must inform the nearest Legal Aid Services Authority (NALSA / DLSA).
+
+Right to be Produced Before Magistrate Within 24 Hours (Article 22(2), Constitution / BNSS Section 57)
+No arrested person can be kept in police custody for more than 24 hours without being produced before the nearest Magistrate. The 24-hour period excludes the time necessary for the journey to the Magistrate's court.
+
+Arrest Without Warrant — When Is It Legal?
+Under BNSS Section 35, a police officer may arrest without a warrant when:
+- The person has committed a cognisable offence (e.g. murder, theft, robbery).
+- There is reasonable suspicion of involvement in a cognisable offence.
+- The person is a proclaimed offender.
+If none of these apply, an arrest without warrant is illegal and the arrested person can file a writ of habeas corpus.
+
+D.K. Basu Guidelines — Rights During Arrest
+The Supreme Court in D.K. Basu v. State of West Bengal (1997) issued binding guidelines:
+1. Police must carry clearly visible accurate name tags.
+2. Memo of arrest must be prepared at the time of arrest.
+3. A family member or friend must be informed of the arrest.
+4. Arrested person must be told of the right to have someone informed.
+5. Medical examination of the arrested person must be done every 48 hours.
+6. Copies of all documents must be sent to the Magistrate.
+
+Bail in India — Types and How to Get Bail
+Bail is the temporary release of an accused person awaiting trial on certain conditions. Types of bail:
+1. Regular Bail (BNSS Section 480): Applied before a Magistrate or Sessions Court after arrest. The court considers the nature of offence, antecedents, likelihood of fleeing, etc.
+2. Anticipatory Bail (BNSS Section 482): Applied to Sessions Court or High Court BEFORE arrest, when there is apprehension of arrest. Protects the person from being arrested.
+3. Default Bail (BNSS Section 479): When the police fail to file a charge sheet within the prescribed time (60 days for offences punishable with death/life; 90 days for other cognisable offences), the accused is entitled to bail as a right.
+
+How to Apply for Bail:
+Step 1: Engage an advocate or contact the District Legal Services Authority for free legal aid.
+Step 2: The advocate files a bail application before the appropriate court (Magistrate, Sessions Court, or High Court depending on the offence severity).
+Step 3: Court hears both sides and grants or refuses bail.
+Step 4: If the Magistrate refuses, the accused can approach the Sessions Court, and then the High Court.
+
+Bail is not granted for offences punishable with death if there are reasonable grounds to believe the accused is guilty (non-bailable offences). For non-bailable offences, bail is at the court's discretion.
+
+Emergency Contacts: Dial 112 (Police) or 1800-180-1516 (NALSA Legal Aid Helpline) for urgent legal assistance.

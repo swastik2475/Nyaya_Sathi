@@ -1,0 +1,46 @@
+Property Registration in India
+
+Why Register Property?
+Property registration under the Registration Act 1908 is mandatory for immovable property transactions above ₹100 in value. Failure to register means the document is not admissible as evidence of title and the transfer is not legally complete.
+
+Documents Required for Property Registration
+1. Sale deed / conveyance deed (drafted by a lawyer)
+2. Title documents (previous chain of ownership)
+3. Encumbrance Certificate (EC) — proves property is free of loans
+4. Property card / Khata / 7/12 extract (varies by state)
+5. Identity proof of buyer and seller (Aadhaar, PAN)
+6. PAN card (mandatory for transactions above ₹10 lakh)
+7. Form 26QB (TDS on property if consideration exceeds ₹50 lakh)
+8. No-Objection Certificate (NOC) if applicable (CHS society, etc.)
+9. Power of Attorney (if any party is acting through representative)
+
+Step-by-Step Property Registration Process
+Step 1 — Due Diligence: Verify title by checking Encumbrance Certificate at the Sub-Registrar's office (or online in most states) for the past 30 years.
+Step 2 — Draft Sale Deed: Get the sale deed drafted by an advocate. Include property description, consideration amount, possession details, warranties.
+Step 3 — Pay Stamp Duty: Pay stamp duty at the state government treasury or online (varies by state — typically 4-7% of property value). In Rajasthan: stamp duty is 6% for men, 5% for women.
+Step 4 — Book Appointment: Book a slot at the Sub-Registrar's office online (most states: https://igrs.raj.nic.in for Rajasthan; check your state's IGRS portal).
+Step 5 — Appear at Sub-Registrar's Office: Both buyer and seller (or their authorised representatives with POA) must appear with two witnesses. Bring all original documents.
+Step 6 — Biometric Verification: Thumb impression and photograph of all parties are taken.
+Step 7 — Registration: The Sub-Registrar registers the document and returns the registered deed. You receive a registered copy and the document number.
+Step 8 — Mutation (Dakhil Kharij): Apply at the local Municipal Corporation / Panchayat to update revenue records in the buyer's name.
+
+Registration Charges
+- Registration fee: Generally 1% of the property value (subject to state rules).
+- Stamp duty: 4-7% depending on state and gender of buyer.
+
+Online Registration (Rajasthan — IGRS Portal)
+Rajasthan's IGRS portal (https://igrs.raj.nic.in) allows:
+- Online slot booking for property registration
+- Market value checking
+- Encumbrance certificate download
+- Stamp duty payment
+
+RERA — Real Estate Regulatory Authority
+For under-construction properties, check if the project is registered under RERA of your state. RERA protects buyers from project delays, mis-selling, and unfair practices.
+- National RERA portal: https://rera.gov.in
+- Rajasthan RERA: https://rera.rajasthan.gov.in
+
+Property Dispute Resolution
+- Civil courts have jurisdiction over property disputes.
+- A suit for specific performance (forcing sale) has a 3-year limitation period.
+- RERA Adjudicating Officer handles complaints against builders.

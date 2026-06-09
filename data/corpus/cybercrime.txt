@@ -1,0 +1,54 @@
+Cybercrime in India — Laws and Reporting
+
+What is Cybercrime?
+Cybercrime refers to any criminal activity involving computers, networks, or the internet. It includes hacking, online fraud, identity theft, cyberbullying, child pornography, phishing, ransomware, and online harassment.
+
+Laws Governing Cybercrime in India
+1. Information Technology Act 2000 (IT Act) — primary law for cybercrimes.
+2. Indian Penal Code (IPC) / Bharatiya Nyaya Sanhita (BNS) — applicable for cybercrimes involving fraud, cheating, defamation.
+3. POCSO Act 2012 — child sexual abuse material online.
+
+Key IT Act Sections
+- Section 43: Penalty for unauthorised access, damage to computer systems — compensation up to ₹1 crore.
+- Section 65: Tampering with computer source code — imprisonment up to 3 years or fine ₹2 lakh or both.
+- Section 66: Computer-related offences (hacking) — imprisonment up to 3 years or fine ₹5 lakh or both.
+- Section 66A: Sending offensive messages (struck down by Supreme Court in Shreya Singhal v. Union of India, 2015 — now unconstitutional).
+- Section 66B: Dishonestly receiving stolen computer resources — imprisonment up to 3 years or fine ₹1 lakh.
+- Section 66C: Identity theft — imprisonment up to 3 years + fine ₹1 lakh.
+- Section 66D: Cheating by impersonation using computer — imprisonment up to 3 years + fine ₹1 lakh.
+- Section 66E: Violation of privacy (publishing private images without consent) — imprisonment up to 3 years + fine ₹2 lakh.
+- Section 66F: Cyber terrorism — life imprisonment.
+- Section 67: Publishing obscene material online — imprisonment up to 3 years.
+- Section 67A: Publishing sexually explicit material — imprisonment up to 5 years + fine.
+- Section 67B: Publishing child pornography — imprisonment up to 7 years + fine.
+
+How to Report Cybercrime in India
+1. National Cybercrime Reporting Portal: https://www.cybercrime.gov.in
+   - Report financial fraud, online fraud, social media crimes, cyber harassment, child pornography.
+   - Available 24/7.
+2. Cybercrime Helpline: 1930 (call to report online financial fraud — immediate action possible).
+3. Local Cyber Cell: File FIR at your nearest police station or dedicated cyber police station.
+
+Step-by-step Online Reporting:
+Step 1: Visit https://www.cybercrime.gov.in
+Step 2: Click "Report Cybercrime" and select the category.
+Step 3: Fill in your personal details and incident details.
+Step 4: Upload evidence (screenshots, transaction receipts, email headers).
+Step 5: Submit — you will receive an acknowledgement number.
+
+What to Do Immediately After Online Financial Fraud
+1. Call 1930 within the first few hours — the helpline can freeze/block transactions.
+2. Inform your bank immediately to block the account/card.
+3. File a complaint on the cybercrime portal.
+4. Save all evidence (screenshots, call recordings, transaction details).
+
+Types of Common Cybercrimes and What to Do
+- OTP Fraud / Vishing: Never share OTP. If shared, call 1930 immediately and block account.
+- Phishing: Do not click suspicious links. Forward phishing emails to cybercrime cell.
+- Sextortion / Morphed Images: Report under Section 66E IT Act and POCSO (if minor). Contact police or Cybercrime Cell.
+- Online Shopping Fraud: Report on cybercrime portal + consumer helpline 1800-11-4000.
+- Social Media Hacking: Report to the platform + cybercrime portal.
+- Cyberbullying: Screenshot evidence. Report to cybercrime portal + school/college authorities.
+
+Cyber Dost
+Follow @CyberDost on Twitter/X (official Ministry of Home Affairs account) for cybercrime alerts and tips.

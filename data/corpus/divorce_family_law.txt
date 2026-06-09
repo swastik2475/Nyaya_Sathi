@@ -1,0 +1,55 @@
+Divorce Law in India
+
+Types of Divorce in India
+India has separate personal laws governing divorce based on religion:
+- Hindus (including Sikhs, Jains, Buddhists): Hindu Marriage Act 1955
+- Muslims: Muslim Personal Law (Shariat) Application Act 1937 / Muslim Women (Protection of Rights on Divorce) Act 1986
+- Christians: Divorce Act 1869 (amended 2001)
+- Parsis: Parsi Marriage and Divorce Act 1936
+- Civil/Inter-religion marriages: Special Marriage Act 1954
+
+Hindu Marriage Act — Grounds for Divorce (Section 13)
+A petition for divorce can be presented by either husband or wife on the following grounds:
+- Adultery
+- Cruelty (physical or mental)
+- Desertion for at least 2 continuous years
+- Conversion to another religion
+- Mental disorder of a kind making it unreasonable to live with spouse
+- Leprosy (virulent and incurable)
+- Venereal disease
+- Renunciation of the world by entering a religious order
+- Not heard of as being alive for 7 years
+- Husband guilty of rape, sodomy, or bestiality (ground available to wife only)
+
+Divorce by Mutual Consent (Section 13B, Hindu Marriage Act)
+Both spouses can file a joint petition for divorce by mutual consent if:
+- They have been living separately for at least 1 year.
+- They have mutually agreed that the marriage has irretrievably broken down.
+Procedure:
+Step 1: File a joint petition before the Family Court.
+Step 2: Court records statements of both parties (First Motion).
+Step 3: Mandatory 6-month cooling-off period (can be waived by Supreme Court/High Court in deserving cases: Shilpa Sailesh v. Varun Sreenivasan, 2023).
+Step 4: Second Motion — both appear again to confirm they wish to proceed.
+Step 5: Court passes the divorce decree.
+
+Contested Divorce Procedure
+Step 1: File divorce petition before the Family Court with supporting evidence.
+Step 2: Court issues notice to the opposite party.
+Step 3: Mediation/conciliation is attempted.
+Step 4: If no reconciliation, trial begins (arguments, witnesses, evidence).
+Step 5: Court passes decree of divorce or dismisses the petition.
+Timeline: A contested divorce typically takes 2-5 years in Indian courts.
+
+Alimony and Maintenance
+Under Section 25 of the Hindu Marriage Act, either spouse may apply for permanent alimony. Courts consider income of both parties, assets, and standard of living. Under Section 125 CrPC (now BNSS Section 144), a Magistrate can order monthly maintenance for a spouse who is unable to maintain herself/himself.
+
+Muslim Divorce
+- Talaq-e-Ahsan: Most proper form — one revocable pronouncement, then a waiting period (iddat) of 3 menstrual cycles.
+- Triple Talaq (Talaq-ul-Biddat): Declared unconstitutional and criminalised by the Muslim Women (Protection of Rights on Marriage) Act 2019. Husband can be imprisoned for up to 3 years.
+- Khula: Wife-initiated divorce with the husband's consent.
+- Faskh: Divorce through court intervention.
+
+Property Rights on Divorce
+Under Section 27 of the Hindu Marriage Act, the court may make such provision in the decree as it deems just and proper with respect to any property presented, at or about the time of marriage, which may belong jointly to both the husband and the wife.
+
+Contact family courts or NALSA (1800-180-1516) for free legal aid if you cannot afford a lawyer.

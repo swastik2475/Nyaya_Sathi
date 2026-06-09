@@ -1,0 +1,41 @@
+Bharatiya Nyaya Sanhita (BNS) 2023 — Overview
+The Bharatiya Nyaya Sanhita (BNS) 2023 replaced the Indian Penal Code (IPC) 1860 with effect from July 1, 2024. It modernises criminal law in India and introduces several new provisions.
+
+BNS Section 103 — Murder
+Punishment for murder is death or life imprisonment with fine. The BNS retains the death penalty for murder.
+
+BNS Section 111 — Organised Crime
+Any person who is a member of, or organises or directs activities of, an organised crime syndicate commits an offence under BNS. Punishment includes life imprisonment or death if the offence results in death.
+
+BNS Section 113 — Terrorism
+BNS for the first time includes terrorism as an offence punishable with death or life imprisonment, bringing it into the mainstream criminal code.
+
+BNS Section 63 — Rape
+BNS Section 63 replaces IPC 376. Whoever commits rape shall be punished with rigorous imprisonment for a term not less than ten years, which may extend to imprisonment for life. Minimum 20 years for gang rape.
+
+BNS Section 84 — Sedition (Replaced)
+The old sedition provision (IPC 124A) has been scrapped. BNS Section 152 penalises acts endangering sovereignty, unity and integrity of India — a narrower and more precise definition.
+
+BNS Section 79 — Outraging Modesty
+Replaces IPC 354. Punishes assault or criminal force against women with intent to outrage modesty.
+
+BNS Section 86 — Theft
+Replaces IPC 379. Punishment for theft is imprisonment up to 3 years or fine or both.
+
+BNS Section 303 — Property Offences (Theft Definition)
+Theft under BNS means dishonestly taking any moveable property out of the possession of any person without that person's consent.
+
+Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023 — Criminal Procedure
+The BNSS 2023 replaced the Code of Criminal Procedure (CrPC) 1973 from July 1, 2024. Key changes include:
+- Trials must conclude within 3 years.
+- Charge sheet must be filed within 90 days of arrest (extendable to 180 days).
+- Electronic FIR and summons now recognised.
+- Provision for Zero FIR — an FIR can be filed at any police station regardless of jurisdiction.
+- Audio-video recording of search and seizure operations is now mandatory.
+- Handcuffing is permitted only in specific circumstances (notorious offenders, repeat offenders, those likely to escape).
+
+BNSS Section 173 — FIR (First Information Report)
+Every information relating to a cognisable offence must be reduced to writing by the officer in charge of a police station and be read over to the informant. A copy must be given to the informant free of charge. If a police officer refuses to register an FIR, the person may send the substance of the information in writing and by post to the Superintendent of Police. Online (e-FIR) registration is also available at the police portal.
+
+BNSS Section 479 — Bail for Undertrial Prisoners
+An undertrial prisoner who has completed half the maximum period of imprisonment for the offence they are charged with (one-third if first-time offender) is entitled to bail. The Magistrate must be satisfied that the person is not a flight risk or danger to society.

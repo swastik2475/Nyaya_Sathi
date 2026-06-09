@@ -1,0 +1,48 @@
+Right to Information Act 2005 (RTI Act)
+
+What is RTI?
+The Right to Information Act 2005 gives every citizen of India the right to access information from public authorities. It promotes transparency and accountability in the government. This right is derived from Article 19(1)(a) of the Constitution (freedom of speech and expression).
+
+Who Can File an RTI Application?
+Any citizen of India can file an RTI application. Non-citizens and companies cannot file RTI. There is no requirement to state any reason for seeking information.
+
+Which Authorities Are Covered?
+All public authorities are covered — Union Government, State Governments, bodies substantially financed by government, including bodies like BCCI, political parties receiving substantial government funds (subject to legal interpretation), and public sector undertakings.
+
+How to File an RTI Application (Offline)
+Step 1: Write an application addressed to the Public Information Officer (PIO) of the concerned department.
+Step 2: Clearly state the information you seek.
+Step 3: Attach IPO (Indian Postal Order) or Demand Draft of ₹10 as application fee (BPL card holders are exempt from fee).
+Step 4: Send by post or deliver in person to the PIO.
+Step 5: Keep acknowledgement.
+
+How to File RTI Online
+Use the Central Government RTI Portal: https://rtionline.gov.in
+Steps:
+1. Register on the portal.
+2. Select the ministry/department from the list.
+3. Fill in the application with your question.
+4. Pay ₹10 online (exemption for BPL).
+5. Submit — you will receive a registration number.
+
+Time Limits for Response
+- PIO must respond within 30 days of receiving the application.
+- If the information concerns the life or liberty of a person, response must be within 48 hours.
+- If transferred to another PIO: additional 30 days from transfer.
+
+RTI Appeals
+First Appeal: If the PIO does not respond within 30 days, or the response is unsatisfactory, file a First Appeal to the First Appellate Authority (senior officer in the same department) within 30 days of the PIO's decision. Time limit for response: 30-45 days.
+Second Appeal: If the First Appeal is also unsatisfactory, file a Second Appeal with the Central Information Commission (CIC) or State Information Commission (SIC) within 90 days of the First Appeal decision.
+
+Penalties Under RTI
+If the PIO fails to provide information without reasonable cause, the CIC/SIC can impose a penalty of ₹250 per day up to a maximum of ₹25,000 on the PIO personally.
+
+Information Exempt from RTI (Section 8)
+- Information that affects national security, sovereignty, or strategic interests.
+- Information received in fiduciary capacity (like Cabinet discussions).
+- Personal information that has no public interest.
+- Information that would impede investigation of crimes.
+- Commercial/trade secrets.
+
+RTI and Third Parties (Section 11)
+If the information requested involves a third party, the PIO must notify that party and give them 10 days to object before disclosing.
