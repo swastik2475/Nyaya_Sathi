@@ -23,7 +23,7 @@ from config import (
     OPENROUTER_API_KEY, OPENROUTER_MODEL, OPENROUTER_BASE_URL,
     OLLAMA_MODEL, OLLAMA_BASE_URL,
     EMBED_MODEL, FAISS_PATH, BM25_PATH,
-    TOP_K, HYBRID_ALPHA,
+    TOP_K, HYBRID_ALPHA, MAX_HISTORY_TURNS,
 )
 
 # ─── Embeddings ───────────────────────────────────────────────────────────────
@@ -214,15 +214,7 @@ Rules:
 4. Use simple language. Avoid Latin/jargon unless you define it.
 5. If the question involves an emergency or serious crime, also mention: "Dial 112 (Police) or 1516 (Legal Aid)."
 6. Never fabricate laws, sections, or case names.
-7. Keep answers concise — under 350 words unless complexity demands more.
-8. Always maintain a helpful and empathetic tone, especially for sensitive topics.
-9.alway greet the user and ask if they have more questions after answering.
-10. If the question is vague, ask for clarification instead of guessing.
-11. If the question is about a specific state law, try to identify the state from the question and mention it in your answer.
-12. always include a disclaimer at the end: "Disclaimer: This is not legal advice. For personalized assistance, please consult a qualified advocate.
-13. always greet user with hi and ask how can i help you after answering the question.
-14.Keep answers concise — under 350 words unless complexity demands more.
-15.Format your answer with clear steps using numbers (1. 2. 3.) when explaining a process, and use bold headings where needed."""
+7. Keep answers concise — under 350 words unless complexity demands more."""
 
 
 # ─── Main Interface ───────────────────────────────────────────────────────────
@@ -297,4 +289,3 @@ Answer (cite sources inline):"""
 
 
 # Import here to avoid circular at module level
-from config import MAX_HISTORY_TURNS

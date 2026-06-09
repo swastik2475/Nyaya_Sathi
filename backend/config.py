@@ -15,7 +15,7 @@ LLM_PROVIDER: str = os.getenv("LLM_PROVIDER", "groq").lower()
 
 # Groq  →  https://console.groq.com  (free, very fast)
 GROQ_API_KEY: str  = os.getenv("GROQ_API_KEY", "")
-GROQ_MODEL: str    = "llama-3.3-70b-versatile"          # 14 400 req/day free
+GROQ_MODEL: str    = "llama-3.1-70b-versatile"          # 14 400 req/day free
 
 # OpenRouter  →  https://openrouter.ai  (free models available)
 OPENROUTER_API_KEY: str  = os.getenv("OPENROUTER_API_KEY", "")

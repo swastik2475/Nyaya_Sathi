@@ -1,0 +1,84 @@
+{
+  "total": 15,
+  "top_k": 5,
+  "dense_hit_rate": 100.0,
+  "hybrid_hit_rate": 100.0,
+  "improvement": 0.0,
+  "results": [
+    {
+      "query": "What are my rights if police arrests me without a warrant?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "How do I file an FIR online?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What is Right to Information Act?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What is Article 21 right to life?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What is the punishment for theft under IPC?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "How to file a complaint for domestic violence?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What are the rights of a woman under Indian law?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What is bail and how to get bail?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What is cyber crime and how to report it?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What is the procedure for divorce in India?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What are consumer rights in India?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What is the Right to Education Act?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What is sedition law in India?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "How to register a property in India?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    },
+    {
+      "query": "What is POCSO Act?",
+      "dense_hit": true,
+      "hybrid_hit": true
+    }
+  ]
+}
